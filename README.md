@@ -10,6 +10,8 @@ A queue is open at both ends. One end is provided for the insertion of data and 
 
 A queue can be implemented with any programming language such as C, Java, Python, etc.
 
+![image](https://user-images.githubusercontent.com/125825670/234075507-d780f6e9-c121-4a7c-9fb8-6ad89a6b2648.png)
+
 Operations Associated with a Queue in C
 
 A queue being an Abstract Data Structure provides the following operations for manipulation on the data elements:
