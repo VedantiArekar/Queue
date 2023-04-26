@@ -16,13 +16,13 @@ Operations Associated with a Queue in C
 
 A queue being an Abstract Data Structure provides the following operations for manipulation on the data elements:
 
-isEmpty(): To check if the queue is empty
+1. isEmpty(): To check if the queue is empty
 
-isFull(): To check whether the queue is full or not
+2. isFull(): To check whether the queue is full or not
 
-dequeue(): Removes the element from the frontal side of the queue
+3. dequeue(): Removes the element from the frontal side of the queue
 
-enqueue(): It inserts elements to the end of the queue
+4. enqueue(): It inserts elements to the end of the queue
 
 Front: Pointer element responsible for fetching the first element from the queue
 
